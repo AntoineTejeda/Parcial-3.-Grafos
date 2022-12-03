@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670079773 source:c:\users\andre\onedrive\escritorio\programas_estrucuturas\grafosprueva1\main.c
+	<stdio.h>
+	<string.h>
+
